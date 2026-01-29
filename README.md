@@ -1,4 +1,4 @@
-#LEARNING REPOSITORY
+# LEARNING REPOSITORY
 
 > Repositori ini berfungsi ganda: sebagai dokumentasi perjalanan belajar saya di berbagai bidang teknologi, sekaligus sebagai modul ajar untuk pembaca publik :)
 
