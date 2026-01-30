@@ -1,0 +1,16 @@
+#define Sensor D0
+
+void setup() {
+pinMode(Sensor,INPUT);
+Serial.begin(9600);
+}
+ 
+void loop() { 
+bool Detection = digitalRead(Sensor);
+if(Detection == HIGH){
+Serial.println("Motion detected !!");
+}
+if(Detection == LOW){
+Serial.println("Clear");
+}
+}
