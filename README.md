@@ -15,7 +15,4 @@
 3. [MODUL 2 : Sensor Dan Aktuator](Arduino/MODUL_02.md)
 
 # TODO
-
-- [ ] Tambah materi modul 2
-  
 - [ ] Buat materi baru
