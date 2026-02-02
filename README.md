@@ -13,5 +13,5 @@
 1. [CHEAT SHEET ARDUINO](Arduino/CHEAT_SHEET_ARDUINO.md)
 2. [MODUL 1 : Arduino](Arduino/MODUL_01.md)
 3. [MODUL 2 : Sensor Dan Aktuator](Arduino/MODUL_02.md)
-4. [MODUL_3 : Getting Started](Arduino/MODUL_03.md)
+4. [MODUL 3 : Getting Started](Arduino/MODUL_03.md)
 
