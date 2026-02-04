@@ -18,7 +18,7 @@ Di dalam arsip ini, kita akan sering menemui dua saudara:
 
 - **ESP32:** Kakak yang jauh lebih bertenaga. Modul ini memiliki **Dual-Core** (dua otak yang bekerja bersamaan), memori yang jauh lebih besar, dan sensor internal seperti sensor sentuh (*touch sensor*) dan sensor magnet (*hall effect*).
   
-  - [Pinout ESP32 bisa diakses disini]((https://mischianti.org/doit-esp32-dev-kit-v1-high-resolution-pinout-and-specs/))
+  - [Pinout ESP32 bisa diakses disini](https://mischianti.org/doit-esp32-dev-kit-v1-high-resolution-pinout-and-specs/)
 
 ### 2. Aturan Emas / Golden Rules: Logika 3.3 Volt
 
