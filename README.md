@@ -14,4 +14,7 @@
 2. [MODUL 1 : Arduino](Arduino/MODUL_01.md)
 3. [MODUL 2 : Sensor Dan Aktuator](Arduino/MODUL_02.md)
 4. [MODUL 3 : Getting Started](Arduino/MODUL_03.md)
+5. [MODUL 4 : Liquid Crystal Display](Arduino/MODUL_04.md)
+6. [MODUL 5 : Sensor Ultrasonik HCSR-04](Arduino/MODUL_05.md)
+7. [MODUL 6 : Radio Frequency Identification MFRC522](Arduino/MODUL06.md) 
 
