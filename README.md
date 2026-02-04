@@ -16,5 +16,7 @@
 4. [MODUL 3 : Getting Started](Robotik/MODUL_03.md)
 5. [MODUL 4 : Liquid Crystal Display](Robotik/MODUL_04.md)
 6. [MODUL 5 : Sensor Ultrasonik HCSR-04](Robotik/MODUL_05.md)
-7. [MODUL 6 : Radio Frequency Identification MFRC522](Robotik/MODUL_06.md) 
+7. [MODUL 6 : Radio Frequency Identification MFRC522](Robotik/MODUL_06.md)
+8. [MODUL 7 : ESP8266 & ESP32](Robotik/MODUL_07.md)
+9. [MODUL 8 : BLYNK & INTERNET OF THINGS](Robotik/MODUL_08.md)
 
