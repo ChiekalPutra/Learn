@@ -75,9 +75,9 @@ untuk menambahkan template id, template name, maupun auth token kita perlu melak
 informasi seperti auth token, template id dan template name akan diberikan dengan format seperti berikut :
 
 ```arduino
-#define BLYNK_TEMPLATE_ID "TMPL6r1bnoIgb"
-#define BLYNK_TEMPLATE_NAME "TEST"
-#define BLYNK_AUTH_TOKEN "_gqVVFA-tGgS21MwnA7lAv5snbShl9a9"
+#define BLYNK_TEMPLATE_ID "TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN "TOKEN"
 ```
 
 > Ketiga hal tersebut **WAJIB** disimpan di baris utama program!. Jika tidak disimpan diawal program, maka saat kode dicompile akan menampilkan error untuk "mendefinisikan" template name maupun template ID
