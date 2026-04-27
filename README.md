@@ -8,7 +8,7 @@
 
 #### ROBOTIK_1
 
-> Fokus pada pengembangan sistem cerdas, otomasi, dan interaksi hardware-software.
+> Fokus pada pengembangan sistem cerdas (`IoT`), otomasi, dan interaksi hardware-software.
 
 1. [CHEAT SHEET ARDUINO](Robotik/CHEAT_SHEET_ARDUINO.md)
 2. [MODUL 1 : Arduino](Robotik/MODUL_01.md)
@@ -24,3 +24,5 @@
 #### ROBOTIK_2
 
 > Berfokus pada pengembangan robot sederhana
+
+1. [Pengenalan Robot Line Follower](Robotik_2/Line_Follower.md)
