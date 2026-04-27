@@ -6,7 +6,7 @@
 
 ## LIST OF MATERIAL
 
-#### ELECTRONIC ENGINEERING
+#### ROBOTIK_1
 
 > Fokus pada pengembangan sistem cerdas, otomasi, dan interaksi hardware-software.
 
@@ -21,3 +21,6 @@
 9. [MODUL 8 : BLYNK & INTERNET OF THINGS](Robotik/MODUL_08.md)
 10. [MODUL_9 : MASTERING BLYNK](Robotik/MODUL_09.md)
 
+#### ROBOTIK_2
+
+> Berfokus pada pengembangan robot sederhana
